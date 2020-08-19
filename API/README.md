@@ -10,7 +10,9 @@
 ## Pré requisitos para rodar local:
 
 * Instalação do Ruby: https://rubyinstaller.org/
-* Instalar o bundler na raiz do projeto com o comando: `gem install bundler`
+* Executar na raiz do projeto o comando: `gem install bundler`
+* Executar na raiz do projeto o comando: `bundle install`
+* Iniciar o RSpec na raiz do projeto com o comando: `rspec init`
 
 ## Passos para rodar os testes:
 
