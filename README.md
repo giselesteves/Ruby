@@ -1,7 +1,7 @@
-# DesafioQA 
+# Desafio
 
-Objetivo do Desafio: 
-* Verificar suas habilidades em elaborar cenários de testes e em programação necessárias para automatização dos testes. 
+Objetivo: 
+* Verificar suas habilidades em elaborar cenários de testes e em programação necessárias para automatização dos testes Web e API. 
 
 ## Desafio 1 
 Criar um projeto de automação utilizando BDD e em linguagem de programação de sua preferência os cenários para as duas funcionalidades abaixo: 
