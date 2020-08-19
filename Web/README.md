@@ -9,9 +9,12 @@
 ## Pré requisitos para rodar local:
 
 * Instalação do Ruby: https://rubyinstaller.org/
+* Realizar o download do Geckodrive em https://github.com/mozilla/geckodriver/releases/download/v0.27.0/geckodriver-v0.27.0-win64.zip e extrair o arquivo zip, colocando o executável na pasta C:\Windows
 * Instalação do Capybara usando o comando: `gem install capybara`
 * Instalar o Bundler na raiz do projeto com o comando: `gem install bundler`
-* Realizar o download do Geckodrive em https://github.com/mozilla/geckodriver/releases/download/v0.27.0/geckodriver-v0.27.0-win64.zip e extrair o arquivo zip, colocando o executável na pasta C:\Windows
+* Executar na raiz do projeto o comando: `gem install bundler`
+* Executar na raiz do projeto o comando: `bundle install`
+* Iniciar o RSpec na raiz do projeto com o comando: `rspec init`
 
 ## Passos para rodar os testes:
 
