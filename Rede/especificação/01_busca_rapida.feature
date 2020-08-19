@@ -7,7 +7,7 @@ Quero acessar o portal Unimed
 Para realizar uma busca rápida por especialidade médica e cidade
 
 @01_busca_rapida
-Cenário: Realizar busca rápida por dermatologista que atenda no Rio de Janeiro
+Cenário: Realizar busca rápida por dermatologia no Rio de Janeiro
 Dado que acesso o menu "Guia Médico" no portal Unimed
 E informo "Dermatologia"
 E clico em "Pesquisar"
