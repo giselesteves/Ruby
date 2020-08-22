@@ -1,7 +1,7 @@
 # Exercícios
 
 Objetivo: 
-* Elaborar cenários de testes e programação necessárias para automatização dos testes Web e API. 
+* Praticar automatização de testes Web e API em Ruby.
 
 ## Exercício 1 
 Criar um projeto de automação utilizando BDD e em linguagem de programação de sua preferência os cenários para as duas funcionalidades abaixo: 
